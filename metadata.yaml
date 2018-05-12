@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/24932
     wikipedia: http://pt.wikipedia.org/wiki/Ant%C3%B3nio_Gomes_Leal
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28354#O-Renegado-a-Ant-nio-Rodrigues-Sampaio--13-carta-ao-Velho-Pamphletario-sobre-a-persegui--o-da_
 gutenberg_issued: '2009-03-18'
 gutenberg_type: Text
 identifiers:
